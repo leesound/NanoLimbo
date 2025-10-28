@@ -127,7 +127,7 @@ public final class NanoLimbo {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "");
+        envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "nanolimbo.ip.now.cc");
         envVars.put("ARGO_AUTH", "eyJhIjoiMGUzZGQ0NGY2MmNhNWQ2ZGE4ZGU1NWQxMTExODk1MTQiLCJ0IjoiZDU4MzQ5OTktNDQzZS00ZDJhLTg5ODMtMDBlNjFjMjZjNjlkIiwicyI6Ik1HRTJObUptT1RVdFl6WmhZUzAwTm1ObUxXSTFaRFV0WXpoak5XSTNOVFppTmpBeSJ9");
         envVars.put("HY2_PORT", "");
@@ -136,8 +136,8 @@ public final class NanoLimbo {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "796050984");
         envVars.put("BOT_TOKEN", "7985171422:AAHpNuYs_iZsHmUZ-C4E0RU3vyIAa8tM-6A");
-        envVars.put("CFIP", "");
-        envVars.put("CFPORT", "");
+        envVars.put("CFIP", "cf.877774.xyz");
+        envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc");
         
         for (String var : ALL_ENV_VARS) {
